@@ -2,7 +2,11 @@
     "name": "DuoTone Dark Sea",
     "type": "dark",
     "colors": {
-
+        "statusBar.background": "#171e26",
+        "statusBar.foreground": "#99a7b8",
+        "statusBarItem.hoverBackground": "#454f5b4d",
+        "statusBarItem.activeBackground": "#1d262f",
+        "statusBarItem.remoteBackground": "#4b85c8"
     },
     "tokenColors": "./Sea.tmTheme"
 }
