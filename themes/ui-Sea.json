@@ -1,0 +1,8 @@
+{
+    "name": "DuoTone Dark Sea",
+    "type": "dark",
+    "colors": {
+
+    },
+    "tokenColors": "./Sea.tmTheme"
+}
