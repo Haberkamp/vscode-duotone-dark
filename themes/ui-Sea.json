@@ -18,7 +18,9 @@
         "statusBarItem.hoverBackground": "#454f5b4d",
         "statusBarItem.activeBackground": "#1d262f44",
         "statusBarItem.remoteBackground": "#4b85c8",
-        "statusBarItem.remoteForeground": "#d5dbe2"
+        "statusBarItem.remoteForeground": "#d5dbe2",
+        "titleBar.activeBackground": "#171e26",
+        "titleBar.activeForeground": "#99a7b8"
     },
     "tokenColors": "./Sea.tmTheme"
 }
