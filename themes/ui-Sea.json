@@ -2,6 +2,11 @@
     "name": "DuoTone Dark Sea",
     "type": "dark",
     "colors": {
+        "activityBar.background": "#1D262F",
+        "activityBar.dropBackground": "#2e373faa",
+        "activityBar.foreground": "#d5dbe2",
+        "activityBar.activeBorder": "#d5dbe2",
+        "activityBar.activeFocusBorder": "#d5dbe2",
         "sideBar.background": "#171e26",
         "sideBar.foreground": "#99a7b8",
         "sideBar.dropBackground": "#21283099",
