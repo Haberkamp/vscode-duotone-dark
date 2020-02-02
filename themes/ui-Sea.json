@@ -2,6 +2,12 @@
     "name": "DuoTone Dark Sea",
     "type": "dark",
     "colors": {
+        "sideBar.background": "#171e26",
+        "sideBar.foreground": "#99a7b8",
+        "sideBar.dropBackground": "#21283099",
+        "sideBarTitle.foreground": "#d5dbe2",
+        "sideBarSectionHeader.foreground": "#d5dbe2",
+        "sideBarSectionHeader.background": "#282f37",
         "statusBar.background": "#171e26",
         "statusBar.foreground": "#99a7b8",
         "statusBarItem.hoverBackground": "#454f5b4d",
